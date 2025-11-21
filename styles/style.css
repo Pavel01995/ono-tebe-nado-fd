@@ -3,7 +3,7 @@ body {
 }
 
 
-
+/*header*/
 
 
 .header {
@@ -11,7 +11,7 @@ body {
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
   column-gap: 40px;
- 
+
   padding: 88px 50px 96px;
 }
 
@@ -23,8 +23,8 @@ body {
   display: flex;
   align-items: center;
   gap: 32px;
-  margin-top:6px;
-  
+  margin-top: 6px;
+
 }
 
 .header-menu-item {
@@ -63,16 +63,17 @@ body {
   flex-direction: column;
   font-style: normal;
   line-height: 24px;
-    font-weight: 400;
-font-size: 18px;
-line-height: 24.3px;
-letter-spacing: 0%;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24.3px;
+  letter-spacing: 0%;
 
 
 }
+
 .header .contacts {
-margin-left: 150px;
-    margin-top: 6px;
+  margin-left: 150px;
+  margin-top: 6px;
 }
 
 
@@ -126,8 +127,8 @@ margin-left: 150px;
 }
 
 .bet-button {
-  color:#fff;
-  border:1px solid currentColor;
+  color: #fff;
+  border: 1px solid currentColor;
   padding: 12px 32px;
   font: inherit;
   font-size: 22px;
@@ -255,9 +256,7 @@ margin-left: 150px;
   background-image: url("../images/overlay.png"), url("../images/card-lot-03.jpg");
 }
 
-/
-
-.look-more {
+/ .look-more {
   display: inline-block;
   margin-top: 30px;
   margin-left: 40px;
@@ -275,7 +274,7 @@ margin-left: 150px;
   grid-template-columns: 240px 1fr;
   column-gap: 72px;
   padding: 35px 24px 13px 47px;
-      margin: 122px 23px;
+  margin: 122px 23px;
 }
 
 .about__logo {
