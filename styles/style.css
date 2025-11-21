@@ -256,7 +256,7 @@ body {
   background-image: url("../images/overlay.png"), url("../images/card-lot-03.jpg");
 }
 
-/ .look-more {
+.look-more {
   display: inline-block;
   margin-top: 30px;
   margin-left: 40px;
